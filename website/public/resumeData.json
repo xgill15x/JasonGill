@@ -1,0 +1,98 @@
+{
+  "main": {
+    "name": "Jason",
+    "occupation": "up-and-coming software developer looking to make a splash in the industry",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Currently, I'm a second-year Computing Science student at SFU. I'll be on the hunt for my first software developing internship this summer. I consider myself to be very passionate about code and can't wait to work with like-minded people. I've worked with a varitey of technologies such as ReactJS, Maven, Spring Boot, Git, ElasticBeanstalk, CloudFront, mySQL and Postman. I'm familiar with languages such as Java, JavaScript, C, C++, Python, Html, Css",
+    "contactmessage": "Contact me for any inquiries!",
+    "email": "jason_gill15@hotmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Vancouver",
+      "state": "BC",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jason-gill-88321522a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jason_gill15/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/xgill15x",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm familiar with a wide variety of technologies",
+    "education": [
+      {
+        "school": "Simon Fraser University",
+        "degree": "Bachelors in Computing Science",
+        "graduated": "Fall 2020 - Present",
+        "description": "I have taken several introductory CS-related courses as well as a course in data structures & algorithms"
+      },
+      {
+        "school": "Tamanawis Secondary",
+        "degree": "Graduated ",
+        "graduated": "June 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Bijou Budget",
+        "title": "Full Stack ",
+        "years": "Nov 2021 - Jan 2022",
+        "description": "Bijou Budget is an intuitive budget tracking application made using react, spring boot and mySQL. It helps users keep track of their monthly spending and view relevant financial data."
+      },
+      {
+        "company": "Weather & Traffic App ",
+        "title": "Backend (Java) ",
+        "years": "January 2022 - January 2022",
+        "description": "This weather app sends concise daily weather information to my phone during exams seasons. It also provides me with the time it takes to get from my home to SFU. I used a weather and a traffic api to support this project."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "mySQL",
+        "level": "70%"
+      }
+    ]
+  }
+}
