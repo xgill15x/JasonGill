@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Jason",
-    "occupation": "up-and-coming software developer looking to make a splash in the industry",
+    "occupation": "software developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Currently, I'm a second-year Computing Science student at SFU. I'll be on the hunt for my first software developing internship this summer. I consider myself to be very passionate about code and can't wait to work with like-minded people. I've worked with a varitey of technologies such as ReactJS, Maven, Spring Boot, Git, ElasticBeanstalk, CloudFront, mySQL and Postman. I'm familiar with languages such as Java, JavaScript, C, C++, Python, Html, Css",
-    "contactmessage": "Contact me for any inquiries!",
+    "bio": "Currently, I am a 2nd year Computer Science student at Simon Fraser University. I am on the hunt for a software development internship for Summer 2022. I am passionate about coding and look forward to working with like-minded people. I have worked with a variety of tools such as Git, AWS technologies (ElasticBeanstalk, CloudFront, S3, Route53, Amazon Certificate Manager), mySQL, Maven and Postman. I am familiar with Java, JavaScript, C, C++, Python, HTML, CSS, along with frameworks including Spring Boot and ReactJS.",
+    "contactmessage": "Contact me with any inquiries.",
     "email": "jason_gill15@hotmail.com",
     "phone": "",
     "address": {
@@ -23,14 +23,14 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/jason_gill15/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "https://github.com/xgill15x",
         "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jason_gill15/",
+        "className": "fa fa-instagram"
       }
     ]
   },
@@ -40,7 +40,7 @@
       {
         "school": "Simon Fraser University",
         "degree": "Bachelors in Computing Science",
-        "graduated": "Fall 2020 - Present",
+        "graduated": "Fall 2020 - Fall 2025",
         "description": "I have taken several introductory CS-related courses as well as a course in data structures & algorithms"
       },
       {
@@ -53,15 +53,21 @@
     "work": [
       {
         "company": "Bijou Budget",
-        "title": "Full Stack ",
-        "years": "Nov 2021 - Jan 2022",
-        "description": "Bijou Budget is an intuitive budget tracking application made using react, spring boot and mySQL. It helps users keep track of their monthly spending and view relevant financial data."
+        "title": "ReactJS & Java Spring Boot ",
+        "years": "bijoubudget.be",
+        "description": "Bijou Budget is an intuitive budget tracking application implemented using ReactJS, Java Spring Boot and mySQL. Deployed using AWS, this website guides users in keeping track of all their monthly expenses and transactions."
       },
       {
         "company": "Weather & Traffic App ",
         "title": "Backend (Java) ",
-        "years": "January 2022 - January 2022",
-        "description": "This weather app sends concise daily weather information to my phone during exams seasons. It also provides me with the time it takes to get from my home to SFU. I used a weather and a traffic api to support this project."
+        "years": "github.com/xgill15x/WeatherApp",
+        "description": "Hosted on PythonAnywhere, this script uses the Twilio API to send daily SMS texts to my phone summarizing today’s weather and traffic time for the route to my university. Weather is retrieved via the OpenWeatherMap API and traffic time is determined through the TrueWay Directions API."
+      },
+      {
+        "company": "My Personal Webpage ",
+        "title": "ReactJS ",
+        "years": "xgill15x.github.io/JasonGill",
+        "description": "A portfolio page dedicated to me."
       }
     ],
     "skills": [

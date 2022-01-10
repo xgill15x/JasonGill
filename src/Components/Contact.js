@@ -46,10 +46,6 @@ class Contact extends Component {
 
    submitEmail(e) {
       e.preventDefault()
-      console.log(this.state.senderName)
-      console.log(this.state.senderEmail)
-      console.log(this.state.senderSubject)
-      console.log(this.state.senderMessage)
 
       emailjs.send(privateInfo.serviceID, privateInfo.templateID,{
          subject: this.state.senderSubject,
@@ -109,12 +105,12 @@ class Contact extends Component {
 
                   <div>
 						   <label htmlFor="contactName">Name <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.onNameChange}/>
+						   <input required type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.onNameChange}/>
                   </div>
 
                   <div>
 						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.onEmailChange}/>
+						   <input required type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.onEmailChange}/>
                   </div>
 
                   <div>
@@ -124,7 +120,7 @@ class Contact extends Component {
 
                   <div>
                      <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea onChange={this.onMessageChange} cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                     <textarea required onChange={this.onMessageChange} cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
                   </div>
 
                   <div>
@@ -146,10 +142,6 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Contact Me</h4>
-					   <p className="Email">
-						   {name}<br />
-					   </p>
 				   </div>
 
                
