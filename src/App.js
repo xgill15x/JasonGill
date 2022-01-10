@@ -27,7 +27,7 @@ class App extends Component {
     const localUrl = '/resumeData.json'
 
     $.ajax({
-      url:localUrl,
+      url:mainUrl,
       dataType:'json',
       cache: false,
       success: function(data){
