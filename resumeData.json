@@ -61,10 +61,10 @@
         "description": "Hosted on PythonAnywhere, this script uses the Twilio API to send daily SMS texts to my phone summarizing today’s weather and traffic time for the route to my university. Weather is retrieved via the OpenWeatherMap API and traffic time is determined through the TrueWay Directions API."
       },
       {
-        "title": "My Personal Webpage ",
+        "title": "My Personal Website ",
         "language": "ReactJS ",
         "link": "https://xgill15x.github.io/JasonGill",
-        "description": "A portfolio page dedicated to me."
+        "description": "This current website you are viewing was developed in ReactJS and deployed using Github Pages. The contact form makes use of the EmailJS library to provide a seamless user experience."
       }
     ]
   }
