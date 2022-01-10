@@ -7,12 +7,9 @@
     "bio": "Currently, I am a 2nd year Computer Science student at Simon Fraser University. I am on the hunt for a software development internship for Summer 2022. I am passionate about coding and look forward to working with like-minded people. I have worked with a variety of tools such as Git, AWS technologies (ElasticBeanstalk, CloudFront, S3, Route53, Amazon Certificate Manager), mySQL, Maven and Postman. I am familiar with Java, JavaScript, C, C++, Python, HTML, CSS, along with frameworks including Spring Boot and ReactJS.",
     "contactmessage": "Contact me with any inquiries.",
     "email": "jason_gill15@hotmail.com",
-    "phone": "",
     "address": {
-      "street": "",
       "city": "Vancouver",
-      "state": "BC",
-      "zip": ""
+      "state": "BC"
     },
     "website": "http://www.jason.com",
     "resumedownload": "http://jason.com",
@@ -50,54 +47,24 @@
         "description": ""
       }
     ],
-    "work": [
+    "projects": [
       {
-        "company": "Bijou Budget",
-        "title": "ReactJS & Java Spring Boot ",
-        "years": "bijoubudget.be",
+        "title": "Bijou Budget",
+        "language": "ReactJS & Java Spring Boot ",
+        "link": "https://bijoubudget.be",
         "description": "Bijou Budget is an intuitive budget tracking application implemented using ReactJS, Java Spring Boot and mySQL. Deployed using AWS, this website guides users in keeping track of all their monthly expenses and transactions."
       },
       {
-        "company": "Weather & Traffic App ",
-        "title": "Backend (Java) ",
-        "years": "github.com/xgill15x/WeatherApp",
+        "title": "Weather & Traffic App ",
+        "language": "Python ",
+        "link": "https://github.com/xgill15x/WeatherApp",
         "description": "Hosted on PythonAnywhere, this script uses the Twilio API to send daily SMS texts to my phone summarizing today’s weather and traffic time for the route to my university. Weather is retrieved via the OpenWeatherMap API and traffic time is determined through the TrueWay Directions API."
       },
       {
-        "company": "My Personal Webpage ",
-        "title": "ReactJS ",
-        "years": "xgill15x.github.io/JasonGill",
+        "title": "My Personal Webpage ",
+        "language": "ReactJS ",
+        "link": "https://xgill15x.github.io/JasonGill",
         "description": "A portfolio page dedicated to me."
-      }
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "90%"
-      },
-      {
-        "name": "Spring Boot",
-        "level": "90%"
-      },
-      {
-        "name": "Git",
-        "level": "90%"
-      },
-      {
-        "name": "Java",
-        "level": "90%"
-      },
-      {
-        "name": "C++",
-        "level": "90%"
-      },
-      {
-        "name": "Python",
-        "level": "90%"
-      },
-      {
-        "name": "mySQL",
-        "level": "70%"
       }
     ]
   }
