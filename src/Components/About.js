@@ -11,6 +11,9 @@ class About extends Component {
       var resumeDownload = "/";
     }
 
+    const localUrl = '/JasonResume.pdf'
+    const mainUrl = 'https://xgill15x.github.io/JasonGill/JasonGill_Resume.pdf'
+
     return (
       <section id="about">
       <div className="row">
@@ -24,7 +27,7 @@ class About extends Component {
             <div className="row">
                <div className="columns download">
                   <p>
-                     <a href='/JasonResume.pdf' className="button" download><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={mainUrl} className="button" download><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>
