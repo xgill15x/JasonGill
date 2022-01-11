@@ -11,7 +11,7 @@ class About extends Component {
       var resumeDownload = "/";
     }
 
-    const localUrl = '/JasonResume.pdf'
+    const localUrl = '/JasonGill_Resume.pdf'
     const mainUrl = 'https://xgill15x.github.io/JasonGill/JasonGill_Resume.pdf'
 
     return (
