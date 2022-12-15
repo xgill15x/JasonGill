@@ -50,6 +50,12 @@
         "description": "Bijou Budget is an intuitive budget tracking application implemented using ReactJS, Java Spring Boot and mySQL. Deployed using AWS, this website guides users in keeping track of all their monthly expenses and transactions."
       },
       {
+        "title": "Galactic Grease Monkey ",
+        "language": "Java ",
+        "link": "https://github.com/xgill15x/GalacticGreaseMonkey",
+        "description": "An exciting 2D, arcade game in which the user must navigate around black holes, aliens & satellites to collect diamonds and spaceship parts to win the game."
+      },
+      {
         "title": "Weather & Traffic App ",
         "language": "Python ",
         "link": "https://github.com/xgill15x/WeatherApp",
