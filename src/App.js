@@ -22,7 +22,7 @@ class App extends Component {
   }
 
   getResumeData(){
-    const mainUrl = 'https://xgill15x.github.io/resumeData.json'
+    const mainUrl = 'https://xgill15x.github.io/JasonGill/resumeData.json'
     const localUrl = '/resumeData.json'
 
     $.ajax({
