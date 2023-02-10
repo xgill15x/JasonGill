@@ -56,6 +56,12 @@
         "description": "An exciting 2D, arcade game in which the user must navigate around black holes, aliens & satellites to collect diamonds and spaceship parts to win the game."
       },
       {
+        "title": "Three Card Poker",
+        "language": "Java ",
+        "link": "https://github.com/xgill15x/threeCardPoker",
+        "description": "An implementation of three card poker. Follow the link to the read me for an indepth description."
+      },
+      {
         "title": "Weather & Traffic App ",
         "language": "Python ",
         "link": "https://github.com/xgill15x/WeatherApp",
