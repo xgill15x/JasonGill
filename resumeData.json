@@ -4,7 +4,7 @@
     "occupation": "software developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Currently, I am a 3rd year Computer Science student at Simon Fraser University. I am on the hunt for a software development internship for Summer 2023. I am passionate about coding and look forward to working with like-minded people. I have worked with a variety of tools such as Git, AWS (Elastic Beanstalk, CloudFront, S3, Relational Database Service, Route53, Amazon Certificate Manager), mySQL, JUnit, Maven and Postman. I am familiar with Java (Spring Boot), C, C++, Python, JavaScript (ReactJS), Typescript(Angular), SQL, HTML, CSS.",
+    "bio": "Currently, I'm a 3rd year Computer Science student at Simon Fraser University. I'm on the hunt for a software development internship in 2023. I'm passionate about problem-solving and love using programming to do it. I look forward to working with like-minded people and taking on big responsibility. I have worked with a variety of tools such as Git, AWS (Elastic Beanstalk, CloudFront, S3, Relational Database Service, Route53, Amazon Certificate Manager), mySQL, JUnit, Maven, Postman, Figma and Balsamiq. I am familiar with Java (Spring Boot), C, C++, Python, JavaScript (ReactJS), Typescript(Angular), SQL, MATLAB, HTML and CSS.",
     "contactmessage": "Contact me with any inquiries.",
     "email": "jason_gill15@hotmail.com",
     "address": {
@@ -32,7 +32,7 @@
       {
         "school": "Simon Fraser University",
         "degree": "Bachelors in Computing Science",
-        "graduated": "Fall 2020 - June 2025",
+        "graduated": "Fall 2020 - June 2024",
         "description": ""
       },
       {
