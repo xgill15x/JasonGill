@@ -1,5 +1,5 @@
-# My Personal Website
+# My Website 🌅
 
-A link to my personal website:
+A link to my website:
 
 https://xgill15x.github.io/JasonGill/
