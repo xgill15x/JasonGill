@@ -4,7 +4,7 @@
     "occupation": "software developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Currently, I'm a 3rd year Computer Science student at Simon Fraser University. I'm on the hunt for a software development internship in 2023. I'm passionate about problem-solving and love using programming to do it. I look forward to working with like-minded people and taking on big responsibility. I have worked with a variety of tools such as Git, AWS (Elastic Beanstalk, CloudFront, S3, Relational Database Service, Route53, Amazon Certificate Manager), mySQL, JUnit, Maven, Postman, Figma and Balsamiq. I am familiar with Java (Spring Boot), C, C++, Python, JavaScript (ReactJS), Typescript(Angular), SQL, MATLAB, HTML and CSS.",
+    "bio": "I'm a 3rd year Computer Science student at Simon Fraser University. I'm currently searching for my second software development internship in 2023. I'm passionate about solving problems and love using programming applications to approach them. I look forward to gaining more experience in the various fields of the software industry to ensure I grow as a well-rounded developer. I have worked with a variety of tools such as Git, AWS (Elastic Beanstalk, CloudFront, S3, Relational Database Service, Route53, Amazon Certificate Manager), mySQL, JUnit, Maven, Postman, Figma and Balsamiq. I am familiar with Java (Spring Boot), C, C++, Python, JavaScript (ReactJS), Typescript(Angular), SQL, MATLAB, HTML, CSS and more.",
     "contactmessage": "Contact me with any inquiries.",
     "email": "jason_gill15@hotmail.com",
     "address": {
@@ -28,11 +28,19 @@
   },
   "resume": {
     "skillmessage": "I'm familiar with a wide variety of technologies",
+    "work": [
+      {
+        "school": "Ultimate Kronos Group",
+        "degree": "Software Engineer Intern",
+        "graduated": "Fall 2020 - May 2024",
+        "description": "Increased customer satisfaction by leading the custom branding project which included front-end development and API endpoint creation. Managed to decrease page load times by 12.5% by disposing of outdated UI components and replacing them with lightweight in-house Design Language System (DLS) alternatives. Improved the full-stack codebase integrity by achieving 100% class coverage and a minimum of 94% method coverage in all pull requests."
+      }
+    ],
     "education": [
       {
         "school": "Simon Fraser University",
         "degree": "Bachelors in Computing Science",
-        "graduated": "Fall 2020 - June 2024",
+        "graduated": "Fall 2020 - May 2024",
         "description": ""
       },
       {
@@ -47,25 +55,25 @@
         "title": "Bijou Budget",
         "language": "ReactJS & Java Spring Boot ",
         "link": "https://bijoubudget.be",
-        "description": "Bijou Budget is an intuitive budget tracking application implemented using ReactJS, Java Spring Boot and mySQL. Deployed using AWS, this website guides users in keeping track of all their monthly expenses and transactions."
+        "description": "Bijou Budget is an intuitive budget tracking application implemented using ReactJS, Java Spring Boot and mySQL. Deployed with basic authentication and with the help of AWS, this website helps users keep track of their recurring monthly expenses by allowing them to set a budget and add transactions throughtout the month."
       },
       {
         "title": "Galactic Grease Monkey ",
         "language": "Java ",
         "link": "https://github.com/xgill15x/GalacticGreaseMonkey",
-        "description": "An exciting 2D, arcade game in which the user must navigate around black holes, aliens & satellites to collect diamonds and spaceship parts to win the game."
+        "description": "The first big team project I got to lead. An exciting 2D arcade game in which the user must navigate around black holes, aliens & satellites to collect diamonds and spaceship parts to achieve high scores."
       },
       {
         "title": "Three Card Poker",
         "language": "Java ",
         "link": "https://github.com/xgill15x/threeCardPoker",
-        "description": "An implementation of three card poker. Follow the link to the read me for an indepth description."
+        "description": "A CLI implementation of three card poker. Follow the link to the read me for an in-depth description of the rules and implementation."
       },
       {
         "title": "Weather & Traffic App ",
         "language": "Python ",
         "link": "https://github.com/xgill15x/WeatherApp",
-        "description": "Hosted on PythonAnywhere, this script uses the Twilio API to send daily SMS texts to my phone summarizing today’s weather and traffic time for the route to my university. Weather is retrieved via the OpenWeatherMap API and traffic time is determined through the TrueWay Directions API."
+        "description": "Hosted on PythonAnywhere, this script uses the Twilio API to send daily SMS text suggestions to my phone purposed towards avoiding travelling inconvinience. Summarizes recent weather and traffic data for the route to my university. Weather is retrieved via the OpenWeatherMap API and traffic time is determined through the TrueWay Directions API."
       },
       {
         "title": "My Personal Website ",
