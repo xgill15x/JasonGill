@@ -26,7 +26,7 @@ class About extends Component {
             <div className="row">
               <div className="columns download">
                 <p>
-                  <a href={localUrl} className="button" download>
+                  <a href={mainUrl} className="button" download>
                     <i className="fa fa-download"></i>Download Resume
                   </a>
                 </p>
