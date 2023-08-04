@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I'm a 3rd year Computer Science student at Simon Fraser University. I'm currently searching for my second software engineering internship in 2023. I'm passionate about solving problems and love using programming applications to approach them. I look forward to gaining more experience in the various fields of the software industry to ensure I grow as a well-rounded developer. I have worked with a variety of tools such as Git, AWS (Elastic Beanstalk, CloudFront, S3, Relational Database Service, Route53, Amazon Certificate Manager), mySQL, JUnit, Maven, Postman, Figma and Balsamiq. I am familiar with Java (Spring Boot), C, C++, Python, JavaScript (ReactJS), Typescript(Angular), SQL, MATLAB, HTML, CSS and more.",
+    "bio": "I'm a 4th year Computer Science student at Simon Fraser University. Currently, I'm searching for a software engineering internship in 2023. I bring previous software industry experience, along with a solid foundation of relevant coursework. I'm passionate about all things software and am eager to grow my skills as a software engineer. My goal is to get the opportunity to learn from the best in the industry and contribute to codebases that prioritize innovation and growth. I consider myself a lifelong learner and love to experiment with a variety of technologies and tools. Feel free to download my resume for more details.",
     "contactmessage": "Contact me with any inquiries.",
     "email": "jason_gill15@hotmail.com",
     "address": {
@@ -33,15 +33,15 @@
         "school": "Ultimate Kronos Group",
         "degree": "Software Engineer Intern",
         "graduated": "May 2022 - Aug 2022",
-        "description": "Increased customer satisfaction by leading the custom branding project which included front-end development and API endpoint creation. Managed to decrease page load times by 12.5% by disposing of outdated UI components and replacing them with lightweight in-house Design Language System (DLS) alternatives. Improved the full-stack codebase integrity by achieving 100% class coverage and a minimum of 94% method coverage in all pull requests."
+        "description": "Empowered customers to personalize their product suite by leading a full-stack custom branding project with Angular and Java Spring Boot. This included integrating HTTP requests using the Fetch API, handling state management with NgRx, and producing scalable APIs via Spring RESTful services. I also decreased page load times by 12.5% by disposing of outdated UI components and replacing them with in-house, lightweight Design Language System (DLS) alternatives. Further, I Conducted software verification with the JUnit and Jasmine testing frameworks, ultimately achieving > 80% method and class coverage. Finally, I got the opportunity to collaborate with QA engineers and DevOps to fix bugs and analyze requirements."
       }
     ],
     "education": [
       {
         "school": "Simon Fraser University",
         "degree": "Bachelors in Computing Science",
-        "graduated": "Sep 2020 - May 2024",
-        "description": ""
+        "graduated": "Sep 2020 - Dec 2024",
+        "description": "Relevant Coursework: Data Structures & Algorithms, Operating Systems, Database Systems, Computer Networking, User Interface Design, Requirements Engineering"
       },
       {
         "school": "Tamanawis Secondary",
@@ -59,15 +59,21 @@
       },
       {
         "title": "Galactic Grease Monkey ",
-        "language": "Java ",
+        "language": "Java, Swing Framework, AWT ",
         "link": "https://github.com/xgill15x/GalacticGreaseMonkey",
         "description": "The first big team project I got to lead. An exciting 2D arcade game in which the user must navigate around black holes, aliens & satellites to collect diamonds and spaceship parts to achieve high scores."
       },
       {
-        "title": "Three Card Poker",
-        "language": "Java ",
-        "link": "https://github.com/xgill15x/threeCardPoker",
-        "description": "A CLI implementation of three card poker. Follow the link to the read me for an in-depth description of the rules and implementation."
+        "title": "Proof of Work Blockchain",
+        "language": "Rust ",
+        "link": "https://github.com/xgill15x/Proof-of-Work-Blockchain",
+        "description": "Developed a proof-of-work blockchain application in Rust with the SHA256 hashing algorithm. The application implements a producer-consumer work queue that concurrently mines blocks by distributing the workload among multiple worker threads. It then retrieves the first eligible proof value before draining the multi-threaded work queue, ensuring resource optimization."
+      },
+      {
+        "title": "Poker Game",
+        "language": "Java & Python ",
+        "link": "https://github.com/xgill15x/Poker-Game",
+        "description": "Built a Java CLI poker game that recognizes all unique poker hands, determines the winners of any game, and displays the player rankings accordingly. The project was designed with highly cohesive classes, validated with automated script testing in Python, and documented with Javadoc."
       },
       {
         "title": "Weather & Traffic App ",
