@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I'm a 4th year Computer Science student at Simon Fraser University. Currently, I'm searching for a software engineering internship in 2023. I bring previous software industry experience, along with a solid foundation of relevant coursework. I'm passionate about all things software and am eager to grow my skills as a software engineer. My goal is to get the opportunity to learn from the best in the industry and contribute to codebases that prioritize innovation and growth. I consider myself a lifelong learner and love to experiment with a variety of technologies and tools. Feel free to download my resume for more details.",
+    "bio": "I'm a 4th year Computer Science student at Simon Fraser University. Currently, I'm searching for my second software engineering internship. I bring previous software industry experience and a solid foundation of relevant coursework. I'm passionate about all things software and eager to grow my skills as a Software Engineer. My goal is to get the opportunity to learn from the best in the business and contribute to codebases that prioritize innovation and growth. I am a lifelong learner and love to experiment with various technologies and tools. Feel free to download my resume for more details.",
     "contactmessage": "Contact me with any inquiries.",
     "email": "jason_gill15@hotmail.com",
     "address": {
@@ -33,14 +33,14 @@
         "school": "Ultimate Kronos Group",
         "degree": "Software Engineer Intern",
         "graduated": "May 2022 - Aug 2022",
-        "description": "Empowered customers to personalize their product suite by leading a full-stack custom branding project with Angular and Java Spring Boot. This included integrating HTTP requests using the Fetch API, handling state management with NgRx, and producing scalable APIs via Spring RESTful services. I also decreased page load times by 12.5% by disposing of outdated UI components and replacing them with in-house, lightweight Design Language System (DLS) alternatives. Further, I Conducted software verification with the JUnit and Jasmine testing frameworks, ultimately achieving > 80% method and class coverage. Finally, I got the opportunity to collaborate with QA engineers and DevOps to fix bugs and analyze requirements."
+        "description": "Led a full-stack Custom Branding Project with Angular and Java Spring Boot, which empowered customers by allowing them to personalize their product suite. Furthermore, I integrated API services using the Fetch library, handled state management with NgRx, and produced scalable APIs via Spring RESTful services. During the Custom Branding Project, I managed to decrease page load times by 12.5% by disposing of outdated UI components and replacing them with in-house, lightweight Design Language System (DLS) alternatives. Moreover, I conducted software verification with the JUnit and Jasmine testing frameworks, ultimately achieving > 85% method and class coverage"
       }
     ],
     "education": [
       {
         "school": "Simon Fraser University",
         "degree": "Bachelors in Computing Science",
-        "graduated": "Sep 2020 - Dec 2024",
+        "graduated": "Sep 2020 - May 2025",
         "description": "Relevant Coursework: Data Structures & Algorithms, Operating Systems, Database Systems, Computer Networking, User Interface Design, Requirements Engineering"
       },
       {
@@ -53,39 +53,39 @@
     "projects": [
       {
         "title": "Bijou Budget",
-        "language": "ReactJS & Java Spring Boot ",
-        "link": "https://bijoubudget.be",
-        "description": "Bijou Budget is an intuitive budget tracking application implemented using ReactJS, Java Spring Boot and mySQL. Deployed with basic authentication and with the help of AWS, this website helps users keep track of their recurring monthly expenses by allowing them to set a budget and add transactions throughtout the month."
+        "language": "ReactJS, Java Spring Boot, SQL",
+        "link": "https://github.com/xgill15x/Budget-Tracker",
+        "description": "Bijou Budget is an intuitive budget tracking application implemented using ReactJS, Java Spring Boot and mySQL. Deployed with Amazon Web Services, this website helps users keep track of their recurring expenses by allowing them to set monthly budgets and add transactions throughtout the month."
       },
       {
         "title": "Galactic Grease Monkey ",
         "language": "Java, Swing Framework, AWT ",
         "link": "https://github.com/xgill15x/GalacticGreaseMonkey",
-        "description": "The first big team project I got to lead. An exciting 2D arcade game in which the user must navigate around black holes, aliens & satellites to collect diamonds and spaceship parts to achieve high scores."
+        "description": "The first big team project I got to lead. An exciting 2D arcade game in which the user must navigate around black holes, aliens, and satellites to collect diamonds and spaceship parts to achieve high scores. We used the A* search algorithm to implement pathfinding, the Java Abstract Window Toolkit to render graphics, and the KeyListener interface to handle events."
       },
       {
-        "title": "Proof of Work Blockchain",
+        "title": "Computational Blockchain",
         "language": "Rust ",
-        "link": "https://github.com/xgill15x/Proof-of-Work-Blockchain",
-        "description": "Developed a proof-of-work blockchain application in Rust with the SHA256 hashing algorithm. The application implements a producer-consumer work queue that concurrently mines blocks by distributing the workload among multiple worker threads. It then retrieves the first eligible proof value before draining the multi-threaded work queue, ensuring resource optimization."
+        "link": "https://github.com/xgill15x/Computational-Blockchain",
+        "description": "Developed a work-based blockchain application in Rust with the SHA256 hashing algorithm. The application implements a producer-consumer work queue that concurrently mines blocks by distributing the workload among multiple worker threads. It then retrieves the first eligible proof value before draining the multi-threaded work queue, ensuring resource optimization."
+      },
+      {
+        "title": "Weather & Traffic App ",
+        "language": "Python ",
+        "link": "https://github.com/xgill15x/Weather-App",
+        "description": "Hosted on PythonAnywhere, this Python script uses the Twilio API to send daily SMS text suggestions to my phone purposed towards avoiding travelling inconvinience. It summarizes recent weather and traffic data for the route to my university. Weather information is retrieved via the OpenWeatherMap API and traffic time is determined through the TrueWay Directions API."
       },
       {
         "title": "Poker Game",
         "language": "Java & Python ",
         "link": "https://github.com/xgill15x/Poker-Game",
-        "description": "Built a Java CLI poker game that recognizes all unique poker hands, determines the winners of any game, and displays the player rankings accordingly. The project was designed with highly cohesive classes, validated with automated script testing in Python, and documented with Javadoc."
-      },
-      {
-        "title": "Weather & Traffic App ",
-        "language": "Python ",
-        "link": "https://github.com/xgill15x/WeatherApp",
-        "description": "Hosted on PythonAnywhere, this script uses the Twilio API to send daily SMS text suggestions to my phone purposed towards avoiding travelling inconvinience. Summarizes recent weather and traffic data for the route to my university. Weather is retrieved via the OpenWeatherMap API and traffic time is determined through the TrueWay Directions API."
+        "description": "Built a Java CLI poker game that recognizes all the unique poker hands, determines the winners of any game, and displays the player rankings accordingly. The project was designed with highly cohesive classes, validated with automated script testing in Python, and documented with Javadoc."
       },
       {
         "title": "My Personal Website ",
         "language": "ReactJS ",
         "link": "https://xgill15x.github.io/JasonGill",
-        "description": "This current website you are viewing was developed in ReactJS and deployed using Github Pages. The contact form makes use of the EmailJS library to provide a seamless user experience."
+        "description": "The website you are viewing was developed in ReactJS and deployed using Github Pages. The contact form makes use of the EmailJS library to increase engagement."
       }
     ]
   }
