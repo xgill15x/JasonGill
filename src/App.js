@@ -20,8 +20,8 @@ class App extends Component {
   }
 
   getResumeData() {
-    const mainUrl = "https://xgill15x.github.io/JasonGill/resumeData.json";
-    const localUrl = "/resumeData.json";
+    var mainUrl = "https://xgill15x.github.io/JasonGill/resumeData.json";
+    // mainUrl = "/resumeData.json";
 
     $.ajax({
       url: mainUrl,
