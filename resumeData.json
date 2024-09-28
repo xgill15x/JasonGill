@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I'm a 4th year Computer Science student at Simon Fraser University. Currently, I'm searching for my second software engineering internship. I bring previous software industry experience and a solid foundation of relevant coursework. I'm passionate about all things software and eager to grow my skills as a Software Engineer. My goal is to get the opportunity to learn from the best in the business and contribute to codebases that prioritize innovation and growth. I am a lifelong learner and love to experiment with various technologies and tools. Feel free to download my resume for more details.",
+    "bio": "I'm a dedicated Software Engineer based in Vancouver, Canada, currently pursuing a B.Sc. in Computer Science at Simon Fraser University. Having worked on crucial fintech products, I’m accustomed to architecting and implementing complex solutions for critical systems that impact a large user base. I am eager to explore new graduate opportunities, not limited to my previous experience, where I can leverage my technical skills and contribute to innovative software solutions. I thrive in collaborative environments and am committed to continuous learning and growth in the ever-evolving tech landscape. Download my resume for more information!",
     "contactmessage": "Contact me with any inquiries.",
     "email": "jason_gill15@hotmail.com",
     "address": {
@@ -30,10 +30,16 @@
     "skillmessage": "I'm familiar with a wide variety of technologies",
     "work": [
       {
+        "school": "Clio",
+        "degree": "Software Engineer Intern",
+        "graduated": "Jan 2024 - Aug 2024",
+        "description": "Streamlined transaction processing for over 50,000 law firms by developing a Payments component with integrated Stripe functionalities, effectively transitioning away from legacy payment infrastructure. My leadership in incident response efforts ensured transaction reliability for over $10 million CAD in daily processing volume, where I diagnosed and resolved critical issues promptly. Additionally, I achieved compliance with multi-regional financial regulations by refactoring payment flows to enhance security and align with industry standards"
+      },
+      {
         "school": "Ultimate Kronos Group",
         "degree": "Software Engineer Intern",
         "graduated": "May 2022 - Aug 2022",
-        "description": "Led a full-stack Custom Branding Project with Angular and Java Spring Boot, which empowered customers by allowing them to personalize their product suite. Furthermore, I integrated API services using the Fetch library, handled state management with NgRx, and produced scalable APIs via Spring RESTful services. During the Custom Branding Project, I managed to decrease page load times by 12.5% by disposing of outdated UI components and replacing them with in-house, lightweight Design Language System (DLS) alternatives. Moreover, I conducted software verification with the JUnit and Jasmine testing frameworks, ultimately achieving > 85% method and class coverage"
+        "description": "Led the Custom Branding project, utilizing Angular and Java Spring Boot to empower customers to personalize their product suite effectively. By enhancing the user interface with our in-house Design Language System (DLS) components, I successfully reduced page load times by 12.5%. I implemented state management using NgRx and developed scalable APIs through Spring RESTful services, ensuring a seamless experience for users. Additionally, I achieved over 85% code coverage by leveraging testing frameworks such as JUnit, Jasmine, and Selenium, ensuring robust application performance"
       }
     ],
     "education": [
@@ -41,7 +47,7 @@
         "school": "Simon Fraser University",
         "degree": "Bachelors in Computing Science",
         "graduated": "Sep 2020 - May 2025",
-        "description": "Relevant Coursework: Data Structures & Algorithms, Operating Systems, Database Systems, Computer Networking, User Interface Design, Requirements Engineering"
+        "description": "Relevant Coursework: Data Structures & Algorithms, Operating Systems, Database Systems, Data Science, Computer Networking, User Interface Design, Requirements Engineering"
       },
       {
         "school": "Tamanawis Secondary",
@@ -59,7 +65,7 @@
       },
       {
         "title": "Galactic Grease Monkey ",
-        "language": "Java, Swing Framework, AWT ",
+        "language": "Java",
         "link": "https://github.com/xgill15x/GalacticGreaseMonkey",
         "description": "The first big team project I got to lead. An exciting 2D arcade game in which the user must navigate around black holes, aliens, and satellites to collect diamonds and spaceship parts to achieve high scores. We used the A* search algorithm to implement pathfinding, the Java Abstract Window Toolkit to render graphics, and the KeyListener interface to handle events."
       },
@@ -67,7 +73,13 @@
         "title": "Computational Blockchain",
         "language": "Rust ",
         "link": "https://github.com/xgill15x/Computational-Blockchain",
-        "description": "Developed a work-based blockchain application in Rust with the SHA256 hashing algorithm. The application implements a producer-consumer work queue that concurrently mines blocks by distributing the workload among multiple worker threads. It then retrieves the first eligible proof value before draining the multi-threaded work queue, ensuring resource optimization."
+        "description": "Developed a work-based blockchain application in Rust with the SHA256 hashing algorithm. The application implements a producer-consumer work queue that concurrently mines blocks by distributing the workload among multiple worker threads. It then retrieves the first eligible proof before draining the multi-threaded work queue, ensuring resource optimization."
+      },
+      {
+        "title": "UFC Predictive Modelling",
+        "language": "Python",
+        "link": "https://github.com/xgill15x/UFC-Dataset-Analysis",
+        "description": "Developed a machine learning model using the k-th nearest neighbor algorithm in Python with the Scikit-learn library, achieving a 70% accuracy rate in predicting fight winners. Additionally, I forecasted fighters' win-loss ratios by creating a supplementary machine learning model that attained a coefficient of determination (R²) of 0.96, demonstrating its high predictive power and effectiveness in analyzing fight outcomes"
       },
       {
         "title": "Weather & Traffic App ",
