@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Jason",
-    "occupation": "Software Engineer",
+    "occupation": "Software Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I'm a dedicated Software Engineer based in Vancouver, Canada, currently pursuing a B.Sc. in Computer Science at Simon Fraser University. Having worked on crucial fintech products, I’m accustomed to architecting and implementing complex solutions for critical systems that impact a large user base. I am eager to explore new graduate opportunities, not limited to my previous experience, where I can leverage my technical skills and contribute to innovative software solutions. I thrive in collaborative environments and am committed to continuous learning and growth in the ever-evolving tech landscape. Download my resume for more information!",
+    "bio": "I'm a motivated Software Developer based in Vancouver, Canada, currently pursuing a B.Sc. in Computer Science at Simon Fraser University. I have experience working in both HCM and cloud fintech legal industries, where I’ve contributed to designing and implementing complex solutions for critical systems. As I seek new graduate opportunities, I’m eager to apply and refine my skills by tackling challenging problems and building innovative software. I thrive in collaborative environments and am committed to lifelong learning in the ever-evolving tech landscape. Download my resume for more details!",
     "contactmessage": "Contact me with any inquiries.",
     "email": "jason_gill15@hotmail.com",
     "address": {
@@ -31,21 +31,21 @@
     "work": [
       {
         "school": "Clio",
-        "degree": "Software Engineer Intern",
+        "degree": "Software Developer Intern",
         "graduated": "Jan 2024 - Aug 2024",
-        "description": "Streamlined transaction processing for over 50,000 law firms by developing a Payments component with integrated Stripe functionalities, effectively transitioning away from legacy payment infrastructure. My leadership in incident response efforts ensured transaction reliability for over $10 million CAD in daily processing volume, where I diagnosed and resolved critical issues promptly. Additionally, I achieved compliance with multi-regional financial regulations by refactoring payment flows to enhance security and align with industry standards"
+        "description": "At Clio, a leading cloud-based legal technology company, I optimized Clio Payments, reducing payment collection times by 35% for 50,000+ law firms through Ruby on Rails development and Stripe integration. I enhanced financial and data security across five regions by aligning Clio Payments with KYC, PCI-DSS, and GDPR compliance standards. Managing $10M+ CAD in daily transactions, I led incident response efforts and handled on-call rotations to ensure seamless payment processing. To maintain system stability, I leveraged ELK, Datadog, and Bugsnag for proactive issue detection, supporting seven+ successful project releases."
       },
       {
         "school": "Ultimate Kronos Group",
-        "degree": "Software Engineer Intern",
+        "degree": "Software Developer Intern",
         "graduated": "May 2022 - Aug 2022",
-        "description": "Led the Custom Branding project, utilizing Angular and Java Spring Boot to empower customers to personalize their product suite effectively. By enhancing the user interface with our in-house Design Language System (DLS) components, I successfully reduced page load times by 12.5%. I implemented state management using NgRx and developed scalable APIs through Spring RESTful services, ensuring a seamless experience for users. Additionally, I achieved over 85% code coverage by leveraging testing frameworks such as JUnit, Jasmine, and Selenium, ensuring robust application performance"
+        "description": "At UKG, I led the Custom Branding project for UKG Pro, enabling 80,000+ customers to personalize their product suite with logos, brand colors, and slogans using Angular and Java Spring Boot. I boosted page performance by 30% and created a more cohesive UI by integrating Design Language System components, replacing outdated image-based elements. To enhance scalability, I developed RESTful APIs with Spring and implemented reactive state management using NgRx and RxJS. Additionally, I increased test coverage to over 90% by leveraging JUnit, Selenium, and Jasmine, ensuring robust and reliable software."
       }
     ],
     "education": [
       {
         "school": "Simon Fraser University",
-        "degree": "Bachelors in Computing Science",
+        "degree": "Bachelors of Science in Computing Science",
         "graduated": "Sep 2020 - May 2025",
         "description": "Relevant Coursework: Data Structures & Algorithms, Operating Systems, Database Systems, Data Science, Computer Networking, User Interface Design, Requirements Engineering"
       },
@@ -58,40 +58,40 @@
     ],
     "projects": [
       {
-        "title": "Bijou Budget",
-        "language": "ReactJS, Java Spring Boot, SQL",
-        "link": "https://github.com/xgill15x/Budget-Tracker",
-        "description": "Bijou Budget is an intuitive budget tracking application implemented using ReactJS, Java Spring Boot and mySQL. Deployed with Amazon Web Services, this website helps users keep track of their recurring expenses by allowing them to set monthly budgets and add transactions throughtout the month."
+        "title": "Budget Buddy",
+        "language": "ReactJS, Java Spring Boot, MySQL, AWS",
+        "link": "https://github.com/xgill15x/Budget-Buddy",
+        "description": "Budget Buddy is a full-stack web application designed to help users track their monthly expenses, log transactions, and manage their finances efficiently. The frontend, built with React, is deployed on AWS S3, while the backend, powered by Java Spring Boot and MySQL, runs on AWS Elastic Beanstalk with RDS for database management. Users can filter payments by month, year, and category, making it easy to analyze spending patterns. With a seamless and responsive UI, Budget Buddy simplifies financial tracking for better money management."
       },
       {
-        "title": "Galactic Grease Monkey ",
-        "language": "Java",
-        "link": "https://github.com/xgill15x/GalacticGreaseMonkey",
-        "description": "The first big team project I got to lead. An exciting 2D arcade game in which the user must navigate around black holes, aliens, and satellites to collect diamonds and spaceship parts to achieve high scores. We used the A* search algorithm to implement pathfinding, the Java Abstract Window Toolkit to render graphics, and the KeyListener interface to handle events."
+        "title": "SmartCommute",
+        "language": "Python, Twilio API, OpenWeatherMap API, TrueWay Directions API",
+        "link": "https://github.com/xgill15x/SmartCommute",
+        "description": "SmartCommute, hosted on PythonAnywhere, is a commuter's application that delivers daily SMS notifications with real-time travel recommendations. Using the Twilio API, the application sends timely alerts based on weather conditions from OpenWeatherMap and traffic data from the TrueWay Directions API. Whether it’s rain, snow, or heavy traffic, SmartCommute helps users plan their commute efficiently by providing up-to-date insights to ensure a smoother and safer journey."
       },
       {
         "title": "Computational Blockchain",
         "language": "Rust ",
         "link": "https://github.com/xgill15x/Computational-Blockchain",
-        "description": "Developed a work-based blockchain application in Rust with the SHA256 hashing algorithm. The application implements a producer-consumer work queue that concurrently mines blocks by distributing the workload among multiple worker threads. It then retrieves the first eligible proof before draining the multi-threaded work queue, ensuring resource optimization."
+        "description": "Computational Blockchain is a high-performance blockchain mining implementation that utilizes a concurrent producer-consumer work queue to efficiently distribute SHA-256 proof computations across multiple worker threads. Built in Rust, the system optimizes resource allocation by dynamically managing workload distribution and draining the queue upon discovering the first valid proof, reducing unnecessary computations. This approach enhances mining efficiency and showcases effective concurrency management for blockchain applications."
       },
       {
         "title": "UFC Predictive Modelling",
         "language": "Python",
         "link": "https://github.com/xgill15x/UFC-Dataset-Analysis",
-        "description": "Developed a machine learning model using the k-th nearest neighbor algorithm in Python with the Scikit-learn library, achieving a 70% accuracy rate in predicting fight winners. Additionally, I forecasted fighters' win-loss ratios by creating a supplementary machine learning model that attained a coefficient of determination (R²) of 0.96, demonstrating its high predictive power and effectiveness in analyzing fight outcomes"
+        "description": "UFC Predictive Modelling is a machine learning project designed to forecast fight outcomes and analyze athlete performance. Using historical fight data, the model employs a K-Nearest Neighbors (KNN) classifier to predict match winners with 70% accuracy. Additionally, a regression model was developed to estimate fighters' win-loss ratios, achieving a 0.96 coefficient of determination (R²), demonstrating strong predictive power. Data visualization with Seaborn helped uncover key trends and insights in fight statistics."
       },
       {
-        "title": "Weather & Traffic App ",
-        "language": "Python ",
-        "link": "https://github.com/xgill15x/Weather-App",
-        "description": "Hosted on PythonAnywhere, this Python script uses the Twilio API to send daily SMS text suggestions to my phone purposed towards avoiding travelling inconvinience. It summarizes recent weather and traffic data for the route to my university. Weather information is retrieved via the OpenWeatherMap API and traffic time is determined through the TrueWay Directions API."
+        "title": "Galactic Grease Monkey ",
+        "language": "Java",
+        "link": "https://github.com/xgill15x/GalacticGreaseMonkey",
+        "description": "The first big team project I led. An exciting 2D arcade game in which the user must navigate around black holes, aliens, and satellites to collect diamonds and spaceship parts to achieve high scores. We used the A* search algorithm to implement pathfinding, the Java Abstract Window Toolkit to render graphics, and the KeyListener interface to handle events."
       },
       {
         "title": "Poker Game",
         "language": "Java & Python ",
         "link": "https://github.com/xgill15x/Poker-Game",
-        "description": "Built a Java CLI poker game that recognizes all the unique poker hands, determines the winners of any game, and displays the player rankings accordingly. The project was designed with highly cohesive classes, validated with automated script testing in Python, and documented with Javadoc."
+        "description": "This is a Java CLI poker game that recognizes all the unique poker hands, determines the winners of any game, and displays the player rankings accordingly. The project was designed with highly cohesive classes, validated with automated script testing in Python, and documented with Javadoc."
       },
       {
         "title": "My Personal Website ",
