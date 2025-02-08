@@ -33,7 +33,7 @@
         "school": "Clio",
         "degree": "Software Developer Intern",
         "graduated": "Jan 2024 - Aug 2024",
-        "description": "At Clio, a leading cloud-based legal technology company, I optimized Clio Payments, reducing payment collection times by 35% for 50,000+ law firms through Ruby on Rails development and Stripe integration. I enhanced financial and data security across five regions by aligning Clio Payments with KYC, PCI-DSS, and GDPR compliance standards. Managing $10M+ CAD in daily transactions, I led incident response efforts and handled on-call rotations to ensure seamless payment processing. To maintain system stability, I leveraged ELK, Datadog, and Bugsnag for proactive issue detection, supporting seven+ successful project releases."
+        "description": "At Clio, I improved Clio Payments by integrating Stripe with Ruby on Rails, cutting payment collection times by 35% for over 50,000 law firms. I strengthened financial and data security across five regions by ensuring compliance with KYC, PCI-DSS, and GDPR standards. To maintain transaction reliability for over $10 million CAD in daily processing volume, I led incident response efforts and took part in on-call rotations. Using ELK, Datadog, and Bugsnag, I proactively identified and resolved issues, ensuring system stability across seven major project releases."
       },
       {
         "school": "Ultimate Kronos Group",
